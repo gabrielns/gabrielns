@@ -1,8 +1,8 @@
 👋 Olá, eu sou Gabriel Nunes
 
-🎓 Estudante de Ciência da Computação.
-💻 Interessado em Engenharia de Software, Desenvolvimento e Ciência de Dados.
-🌱 Atualmente aprendendo C/C++, Java, C#, R e Fortran.
+🎓 Estudante de Ciência da Computação.<br>
+💻 Interessado em Engenharia de Software, Desenvolvimento e Ciência de Dados.<br>
+🌱 Atualmente aprendendo C/C++, Java, C#, R e Fortran.<br>
 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos práticos e colaborativos.
 
 <!--
