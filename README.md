@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Olá, eu sou Gabriel Nunes
+
+🎓 Estudante de Ciência da Computação.
+💻 Interessado em Engenharia de Software, Desenvolvimento e Ciência de Dados.
+🌱 Atualmente aprendendo C/C++, Java, C#, R e Fortran.
+🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos práticos e colaborativos.
 
 <!--
 **gabrielns/gabrielns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
